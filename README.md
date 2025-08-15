@@ -40,7 +40,8 @@ For R programmming:
 | 15 | ... |  | | |
 
 ## Helpful resources/tools (Cool to know and try it)
-- [Kaggle](https://www.kaggle.com/): One of the best resources about data science, competitions and datasets
+- [Google Collab](https://colab.research.google.com/): Online jupiter notebooks, free GPU usage
+- [Kaggle](https://www.kaggle.com/): One of the best resources about data science, competitions and datasets, free GPU usage
 - [Huggingface](https://huggingface.co/): You can get datasets, models, papers from here
 - [Crawl4ai](https://github.com/unclecode/crawl4ai): A cool tools for crawling data from websites
 
