@@ -23,8 +23,8 @@ For R programmming:
 
 | Week | Topic | Notes | Problems | Solutions |
 | --- | --- | --- | --- | --- |
-| 01 | Data Science Programming Tools | [Week 1 Notes](https://simplesymphony.notion.site/Week-1-250cbbea3c3c80938466f2f58f53722f?source=copy_link) [Week 1 Slides](https://www.canva.com/design/DAGwJbJl_YM/neqmhNEaIfc1eZXnf_9ehg/edit?utm_content=DAGwJbJl_YM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Week 1](Week%01/Week1.md) | |
-| 02 | The Data Science Lifecycle & Processing Pipelines | [Week 2 Notes](https://simplesymphony.notion.site/Week-2-250cbbea3c3c809cab6acc154c68e34b?source=copy_link) [Week 2 Slides](https://www.canva.com/design/DAGwJbhtH7w/QYYfyFpqrrwQteZ4v7ZDxQ/edit?utm_content=DAGwJbhtH7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Week 2](Week%02/Week2.md) | |
+| 01 | Data Science Programming Tools | [Week 1 Notes](https://simplesymphony.notion.site/Week-1-250cbbea3c3c80938466f2f58f53722f?source=copy_link) [Week 1 Slides](https://www.canva.com/design/DAGwJbJl_YM/neqmhNEaIfc1eZXnf_9ehg/edit?utm_content=DAGwJbJl_YM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Week 1](Week%201/Week1.md) | |
+| 02 | The Data Science Lifecycle & Processing Pipelines | [Week 2 Notes](https://simplesymphony.notion.site/Week-2-250cbbea3c3c809cab6acc154c68e34b?source=copy_link) [Week 2 Slides](https://www.canva.com/design/DAGwJbhtH7w/QYYfyFpqrrwQteZ4v7ZDxQ/edit?utm_content=DAGwJbhtH7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Week 2](Week%202/Week1.md) | |
 | 03 | ... |  | | |
 | 04 | ... |  | | |
 | 05 | ... |  | | |
