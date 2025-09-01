@@ -3,11 +3,11 @@ title: "Week 1 Tasks - Data Science Programming"
 author: "[Your Name Here]"
 date: "`r Sys.Date()`"
 output:
+  pdf_document: default
   html_document: 
     toc: true
     toc_float: true
     theme: united
-  pdf_document: default
   word_document: default
 ---
 
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 This R Markdown document contains solutions to all Week 1 tasks using the `student_scores.csv` dataset.
 
----
+------------------------------------------------------------------------
 
 ## Task 1 – Hello World
 
@@ -31,13 +31,11 @@ Write a program that prints: "Welcome to Data Science Programming!"
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 2 – Simple Math
 
-Calculate and print the result of:
-- 15 + 23
-- 120 / 6  
+Calculate and print the result of: - 15 + 23 - 120 / 6\
 - 5³ (5 to the power of 3)
 
 ```{r task2}
@@ -46,7 +44,7 @@ Calculate and print the result of:
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 3 – Variables and Vectors
 
@@ -60,7 +58,7 @@ Print the vector and the sum of its elements.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 4 – Plot Squares
 
@@ -74,7 +72,7 @@ Plot the numbers against their squares using the `plot()` function.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 5 – Load Dataset
 
@@ -88,7 +86,7 @@ Display the first 5 rows.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 6 – Summary Statistics
 
@@ -102,7 +100,7 @@ Print the minimum and maximum scores.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 7 – Filtering Data
 
@@ -114,7 +112,7 @@ Find and print the names of students who scored greater than 80.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 8 – Sorting Data
 
@@ -128,7 +126,7 @@ Display the top 3 students.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Task 9 – Visualization
 
@@ -142,16 +140,16 @@ Add appropriate title and axis labels.
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Submission Notes
 
-- Ensure all code chunks run without errors
-- Include appropriate comments in your code
-- Make sure plots are properly displayed
-- Knit this document to HTML/PDF before submission
-- Save and submit this file as `Week1_Tasks.Rmd`
+-   Ensure all code chunks run without errors
+-   Include appropriate comments in your code
+-   Make sure plots are properly displayed
+-   Knit this document to HTML/PDF before submission
+-   Save and submit this file as `Week1_Tasks.Rmd`
 
----
+------------------------------------------------------------------------
 
 *End of Week 1 Tasks*
