@@ -1,0 +1,157 @@
+---
+title: "Week 1 Tasks - Data Science Programming"
+author: "[Your Name Here]"
+date: "`r Sys.Date()`"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+    theme: united
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+# Week 1 Tasks
+
+This R Markdown document contains solutions to all Week 1 tasks using the `student_scores.csv` dataset.
+
+---
+
+## Task 1 – Hello World
+
+Write a program that prints: "Welcome to Data Science Programming!"
+
+```{r task1}
+# Task 1: Hello World
+# Write your code here
+
+```
+
+---
+
+## Task 2 – Simple Math
+
+Calculate and print the result of:
+- 15 + 23
+- 120 / 6  
+- 5³ (5 to the power of 3)
+
+```{r task2}
+# Task 2: Simple Math
+# Write your code here
+
+```
+
+---
+
+## Task 3 – Variables and Vectors
+
+Create a vector of 5 numbers: `c(10, 20, 30, 40, 50)`.
+
+Print the vector and the sum of its elements.
+
+```{r task3}
+# Task 3: Variables and Vectors
+# Write your code here
+
+```
+
+---
+
+## Task 4 – Plot Squares
+
+Create a vector of numbers from 1 to 10.
+
+Plot the numbers against their squares using the `plot()` function.
+
+```{r task4}
+# Task 4: Plot Squares
+# Write your code here
+
+```
+
+---
+
+## Task 5 – Load Dataset
+
+Load `student_scores.csv` into your program.
+
+Display the first 5 rows.
+
+```{r task5}
+# Task 5: Load Dataset
+# Write your code here
+
+```
+
+---
+
+## Task 6 – Summary Statistics
+
+Print the average (mean) of the `Score` column.
+
+Print the minimum and maximum scores.
+
+```{r task6}
+# Task 6: Summary Statistics
+# Write your code here
+
+```
+
+---
+
+## Task 7 – Filtering Data
+
+Find and print the names of students who scored greater than 80.
+
+```{r task7}
+# Task 7: Filtering Data
+# Write your code here
+
+```
+
+---
+
+## Task 8 – Sorting Data
+
+Sort the dataset by `Score` in descending order.
+
+Display the top 3 students.
+
+```{r task8}
+# Task 8: Sorting Data
+# Write your code here
+
+```
+
+---
+
+## Task 9 – Visualization
+
+Create a histogram of scores.
+
+Add appropriate title and axis labels.
+
+```{r task9}
+# Task 9: Visualization
+# Write your code here
+
+```
+
+---
+
+## Submission Notes
+
+- Ensure all code chunks run without errors
+- Include appropriate comments in your code
+- Make sure plots are properly displayed
+- Knit this document to HTML/PDF before submission
+- Save and submit this file as `Week1_Tasks.Rmd`
+
+---
+
+*End of Week 1 Tasks*
