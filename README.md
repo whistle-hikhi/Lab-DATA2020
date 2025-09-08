@@ -1,4 +1,4 @@
-# DATA2020 - Data Science Programming - Autumn 2025
+# DATA2010 - Data Science Programming - Autumn 2025
 
 ## Course Objections
 This course covers the major programming tools used in Data Science. This includes libraries within Python and the R programming language. Python libraries include those used in data preprocessing, managing data tables and data pipelines, dataflow programming on GPUs, visualisation and scientific computing. Some R counterparts to these are covered. Major components of the R development environment are also taught including documentation and external integration.
