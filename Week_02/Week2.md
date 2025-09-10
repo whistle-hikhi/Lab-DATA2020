@@ -15,26 +15,24 @@ The main point of these tasks it to predict canncellation by driver
 
 ---
 
-### Task 3 – Process time to hour, day, month, is_weekend, weekdays
+### Task 3 – Process time to hour, day, month, is_weekend, weekday
+Create hour, day, month, is_weekend, weekday feature
 
 ---
 
-### Task 4 – Using matplotlib to show (VTAT) Vehicle Time at Arrival Over Time (Time-series)
 
----
-
-### Task 5 – Define target for driver cancellation and check its distribution
+### Task 4 – Define target for driver cancellation and check its distribution
 
 
 ---
 
-### Task 6 – EDA for Customer Cancellations
+### Task 5 – EDA for Customer Cancellations
 
-- Showing Cancellation Rate by Vehicle Type, Cancellation Rate by Hour, Cancellation Rate by Day of Week, Driver Rating vs Driver Cancellation
+- Showing Cancellation Rate by Vehicle Type, Cancellation Rate by Hour, Cancellation Rate by Day of Week
 
 ---
 
-### Task 7 – Feature Engineering
+### Task 6 – Feature Engineering
 
 - One-hot Encoding Vehicle Type
 
@@ -44,13 +42,13 @@ The main point of these tasks it to predict canncellation by driver
 
 ---
 
-### Task 8 – Balance Class Weights
-
+### Task 7 – Balance Class Weights
+Balancing the class weights before putting it into model to advoid model tend to becoming bias to one class
 
 ---
 
-### Task 9 – Model Prediction
-
+### Task 8 – Model Prediction and Evaluation
+Using at least 3 models to predict the result and give the evaluation
 
 ---
 
